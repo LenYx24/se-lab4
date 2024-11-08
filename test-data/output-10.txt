@@ -1,0 +1,5 @@
+SUCCESS # <- GT4500
+SUCCESS # <- TORPEDO prim
+SUCCESS # <- TORPEDO sec
+FAIL # <- TORPEDO prim
+FAIL # <- TORPEDO sec

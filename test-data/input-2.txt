@@ -1,0 +1,3 @@
+# Create a ship with only primary having torpedos
+GT4500,10,0,0,0
+TORPEDO,ALL # Try and fire one from both of them

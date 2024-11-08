@@ -1,0 +1,3 @@
+# Create a ship with only secondary having torpedos
+GT4500,0,0,10,0
+TORPEDO,SINGLE # Try and fire only one of them
